@@ -1,1 +1,1 @@
-Game playe for settelers of Katan
+Game player for settelers of Katan
